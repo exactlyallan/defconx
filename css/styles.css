@@ -1,7 +1,7 @@
 /* styles */
 
 body {
-	background-color: black;
+    background-color: black;
     color: white;
     font-family: 'Cousine', sans-serif;
     font-size: 14px;
@@ -21,10 +21,11 @@ body {
 }
 
 #graphic {
-	position: absolute;
+    position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     z-index: -1;
+    overflow: hidden;
 }
